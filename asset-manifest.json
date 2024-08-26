@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/W3clone/static/css/main.f51cc774.css",
+    "main.js": "/W3clone/static/js/main.4182bae5.js",
+    "static/media/W3Schools_logo.svg.png": "/W3clone/static/media/W3Schools_logo.svg.20a87da62f0177c2f56e.png",
+    "static/media/swiggyads.jpeg": "/W3clone/static/media/swiggyads.22904db75706e13e2bf3.jpeg",
+    "index.html": "/W3clone/index.html",
+    "main.f51cc774.css.map": "/W3clone/static/css/main.f51cc774.css.map",
+    "main.4182bae5.js.map": "/W3clone/static/js/main.4182bae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51cc774.css",
+    "static/js/main.4182bae5.js"
+  ]
+}
