@@ -1,0 +1,15 @@
+.add-container {
+  height: 100vh;
+  background-color: beige;
+  flex-grow: 1;
+
+  display: inline-block;
+  justify-content: center;
+}
+
+.swiggy-img-container {
+  margin-top: 8vh;
+
+  display: flex;
+  justify-content: center;
+}

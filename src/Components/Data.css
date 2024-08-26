@@ -1,0 +1,17 @@
+.ans-div {
+  width: 80%;
+}
+
+.code-div-container {
+  width: 95%;
+  padding: 20px;
+  background-color: #E7E9EB;
+
+}
+
+.code-div {
+  padding: 5px;
+  border-left: 4px solid green;
+  margin: 10px;
+  background-color: whitesmoke;
+}

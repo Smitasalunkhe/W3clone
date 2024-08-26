@@ -1,0 +1,65 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.navbar-logo img {
+  height: 40px;
+  width: auto;
+  margin-right: 20px;
+}
+
+.navtabs {
+  display: flex;
+  align-items: center; /* Center items vertically */
+  gap: 20px; /* Increase space between tabs */
+}
+
+.navtab {
+  padding: 10px 15px;
+  background-color: #28a745; /* Green background */
+  color: #fff; /* White text */
+  border-radius: 4px; /* Rounded corners */
+  text-align: center;
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth transition */
+  text-decoration: none; /* Remove underline if using <a> tags */
+}
+
+.navtab:hover {
+  background-color: #218838; /* Darker green on hover */
+}
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-right: 20px; /* Space between search field and auth buttons */
+}
+
+.search-input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.auth-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.sign-log {
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff; /* Button color */
+  color: #fff; /* Button text color */
+  cursor: pointer;
+}
+
+.sign-log:hover {
+  background-color: #0056b3; /* Button hover color */
+}

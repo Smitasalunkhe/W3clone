@@ -1,0 +1,17 @@
+.sidebar-main-container {
+  width: 100vw;
+  background-color: whitesmoke;
+  display: flex;
+  flex-grow: 1;
+}
+
+.code-div {
+  padding: 5px;
+  border-left: 4px solid green;
+  margin: 10px;
+  background-color: whitesmoke;
+}
+
+.code-div-container {
+  background-color: #E7E9EB;
+}

@@ -1,0 +1,22 @@
+.tab-div {
+  height: 50px;
+  width: 100%;
+  background-color: #E7E9EB;
+  display: flex;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* text-align: center; */
+  padding-left: 10px;
+}
+
+.tab-div:hover {
+  /* border-bottom: 1px solid black; */
+  /* border-radius: 10px; */
+  /* font-weight: bold; */
+  background-color: rgb(180, 179, 179);
+}
+
+
+.tab-title {
+  font-size: 18px;
+}

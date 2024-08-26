@@ -1,0 +1,16 @@
+.Nav2-container {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+  color: white;
+  font-weight: 400;
+}
+
+.Nav2-container div {
+  padding: 5px;
+}
+
+.Nav2-container div:hover {
+  background-color: green;
+}
